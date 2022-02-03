@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AugustoCRX
 - 👀 I’m interested in JavaScript and Python
 - 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me augusto.cesar.rodrigues@gmail.com
 
 <!---
