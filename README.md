@@ -43,7 +43,7 @@ Atualmente estou estudando Data Science pela Blue EdTech, sou formado em Engenha
          
         
     
-
+s
 
 
 
