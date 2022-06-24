@@ -9,10 +9,10 @@ Atualmente estou estudando Data Science pela Blue EdTech, sou formado em Engenha
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" img height = "180em" src="https://github-readme-stats.vercel.app/api?username=AugustoCRX&show_icons=true&theme=radical" />
+  <img align="center" img height = "150em" src="https://github-readme-stats.vercel.app/api?username=AugustoCRX&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCRX&show_icons=true&theme=radical"/>
+  <img align="center" img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCRX&show_icons=true&theme=radical"/>
 </a>
 
 ##
