@@ -1,4 +1,4 @@
-<img align ="right" height = "300"  src="https://cdn.discordapp.com/attachments/959963128056148019/963861188146511953/ezgif-2-2c1d3e8957.gif">
+<img height = "300"  src="https://cdn.discordapp.com/attachments/959963128056148019/963861188146511953/ezgif-2-2c1d3e8957.gif">
 
 Olá, como vai?
 
