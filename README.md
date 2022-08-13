@@ -1,14 +1,12 @@
 <div>
-<img align ="right" height = "250"  src="https://cdn.discordapp.com/attachments/959963128056148019/963861188146511953/ezgif-2-2c1d3e8957.gif"/>
-<p>
+<img align ="right" height = "300"  src="https://cdn.discordapp.com/attachments/959963128056148019/963861188146511953/ezgif-2-2c1d3e8957.gif"/>
 Olá, como vai?
 
-Me chamo Augusto Cesar, sou Engenheiro da Computação em formação e Engenheiro Civil formado.
+Me chamo Augusto Cesar, sou Engenheiro da Computação em formação e Engenheiro Civil formado
 
 Atualmente minha área de atuação são os dados, trabalhando com modelos de inteligência artificial, machine learning e deep learning utilizando frameworks do python e algumas bibliotecas de visualização como o plotly 
 
-Gosto de trabalhar com Business Inteligence (BI) utilizando o Power BI, aplicando conceitos de "data visualization" e "data storytelling" e com Banco de dados relacionais (SQL) construindo modelos e fazendo códigos em SQL!
-</p>
+Gosto de trabalhar com Business Inteligence (BI) utilizando o Power BI, aplicando conceitos de "data visualization" e "data storytelling" e com Banco de dados relacionais (SQL) construindo modelos e fazendo códigos em SQL
 </div>
 
 
@@ -42,10 +40,7 @@ Gosto de trabalhar com Business Inteligence (BI) utilizando o Power BI, aplicand
          <a href = "https://www.linkedin.com/in/augustocrx/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"></a>
          <a href = "https://discord.com/users/253485227945623552" target = "_blank"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target = "_blank"></a>
           <a href = "mailto:augusto.cesar.rodrigues@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a>
-        
- <strong>Obrigado por visitar meu perfil e sinta-se a vontade!</strong>        
-        
-    
+          
 
 
 
