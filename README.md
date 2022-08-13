@@ -1,3 +1,4 @@
+<div>
 Olá, como vai?
 
 Me chamo Augusto Cesar, sou Engenheiro da Computação em formação e Engenheiro Civil formado
@@ -5,9 +6,10 @@ Me chamo Augusto Cesar, sou Engenheiro da Computação em formação e Engenheir
 Atualmente minha área de atuação são os dados, trabalhando com modelos de inteligência artificial, machine learning e deep learning utilizando frameworks do python e algumas bibliotecas de visualização como o plotly 
 
 Gosto de trabalhar com Business Inteligence (BI) utilizando o Power BI, aplicando conceitos de "data visualization" e "data storytelling", com Banco de dados relacionais (SQL) construindo modelos e fazendo códigos em SQL e pugs são a melhor raça de cachorro :heart:	
-
+</div>
+<div>
 <img align = "center" height = "300"  src="https://cdn.discordapp.com/attachments/959963128056148019/963861188146511953/ezgif-2-2c1d3e8957.gif">
-
+</div>
 
 <br clear="left"/>
 
