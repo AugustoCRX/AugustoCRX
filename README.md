@@ -2,7 +2,15 @@
 
 - 👋 Olá, me chamo Augusto Cesar Rodrigues Xavier
 
-Atualmente estou estudando Data Science pela Blue EdTech, sou formado em Engenharia Civil e atualmente busco me reencontrar na área da TI. Estou estudando Python      utilizando bibliotecas como pandas, sklearn, numpy, statsmodels e bibliotecas de plot, SQL, Business Inteligence (BI).
+Olá, como vai?
+
+Obrigado por visitar meu perfil e sinta-se a vontade!
+
+Me chamo Augusto, sou Engenheiro da Computação em formação e Engenheiro Civil formado.
+
+Atualmente minha área de atuação são os dados, trabalhando com modelos de inteligência artificial, machine learning e deep learning utilizando frameworks do python e algumas bibliotecas de visualização como o plotly :smile:	
+
+Gosto de trabalhar com Business Inteligence (BI) utilizando o Power BI, aplicando conceitos de "data visualization" e "data storytelling" e com Banco de dados relacionais (SQL) construindo modelos e fazendo códigos em SQL!
 
 <br clear="left"/>
 
@@ -19,12 +27,7 @@ Atualmente estou estudando Data Science pela Blue EdTech, sou formado em Engenha
 
 
 <div style = "display: inline_block"><br>
-         <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-         <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-         <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
          <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-         <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-         <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
          <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
          <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
          <img align = "center" height = "30" weight = "20" img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
