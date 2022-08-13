@@ -4,8 +4,6 @@
 
 Olá, como vai?
 
-Obrigado por visitar meu perfil e sinta-se a vontade!
-
 Me chamo Augusto, sou Engenheiro da Computação em formação e Engenheiro Civil formado.
 
 Atualmente minha área de atuação são os dados, trabalhando com modelos de inteligência artificial, machine learning e deep learning utilizando frameworks do python e algumas bibliotecas de visualização como o plotly :smile:	
@@ -43,7 +41,7 @@ Gosto de trabalhar com Business Inteligence (BI) utilizando o Power BI, aplicand
          <a href = "https://discord.com/users/253485227945623552" target = "_blank"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target = "_blank"></a>
           <a href = "mailto:augusto.cesar.rodrigues@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a>
         
-         
+ <strong>Obrigado por visitar meu perfil e sinta-se a vontade!</strong>        
         
     
 
