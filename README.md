@@ -1,7 +1,7 @@
 <div>
 Olá, como vai?
 
-Me chamo Augusto Cesar, sou Engenheiro da Computação em formação e Engenheiro Civil formado
+Me chamo Augusto Cesar, sou Engenheiro de Software em formação e Engenheiro Civil formado
 
 Atualmente minha área de atuação são os dados, trabalhando com modelos de inteligência artificial, machine learning e deep learning utilizando frameworks do python e algumas bibliotecas de visualização como o plotly 
 
